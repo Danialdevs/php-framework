@@ -1,0 +1,12 @@
+{
+    "name": "danial/php-framework",
+    "autoload": {
+        "psr-4": {
+            "Danial\\PhpFramework\\": "framework",
+            "App\\": "app"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^7.1"
+    }
+}

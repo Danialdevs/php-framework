@@ -1,0 +1,4 @@
+name: php-framewrok
+recipe: lemp
+config:
+  webroot: public
