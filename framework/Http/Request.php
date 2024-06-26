@@ -12,7 +12,6 @@ class Request
         private readonly array $server,
     )
     {
-
     }
 
     public static function createFromGlobals()
